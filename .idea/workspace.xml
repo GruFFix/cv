@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="206d778a-da66-4da8-ac15-f25762f3203d" name="Changes" comment="move">
-      <change afterPath="$PROJECT_DIR$/share.jpg" afterDir="false" />
+    <list default="true" id="206d778a-da66-4da8-ac15-f25762f3203d" name="Changes" comment="share image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -161,7 +160,7 @@
       <workItem from="1705928400406" duration="21741000" />
       <workItem from="1705980561315" duration="4265000" />
       <workItem from="1705984989781" duration="526000" />
-      <workItem from="1705985521380" duration="2546000" />
+      <workItem from="1705985521380" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="feat: react app init">
       <option name="closed" value="true" />
@@ -227,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705987019526</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="share image">
+      <option name="closed" value="true" />
+      <created>1705988087186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705988087186</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="feat: react app init" />
     <MESSAGE value="feat: setup styles &amp; layout" />
     <MESSAGE value="move" />
-    <option name="LAST_COMMIT_MESSAGE" value="move" />
+    <MESSAGE value="share image" />
+    <option name="LAST_COMMIT_MESSAGE" value="share image" />
   </component>
 </project>
