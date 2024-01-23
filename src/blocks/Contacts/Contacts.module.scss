@@ -7,8 +7,11 @@
 
   a {
     color: #25a6e9;
-    //&:hover {
-    //
-    //}
+    cursor: pointer;
+    transition: color .3s;
+
+    &:hover {
+      color: #bfc7d2;
+    }
   }
 }

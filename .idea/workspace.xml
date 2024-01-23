@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="206d778a-da66-4da8-ac15-f25762f3203d" name="Changes" comment="share image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/blocks/Contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.deploy (1).executor": "Run",
     "npm.deploy.executor": "Run",
+    "npm.dev (1).executor": "Run",
     "npm.dev.executor": "Run",
     "npm.predeploy (1).executor": "Run",
     "npm.predeploy.executor": "Run",
@@ -81,7 +86,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="deploy (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -102,8 +107,8 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/react/package.json" />
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="dev" />
@@ -134,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev (1)" />
         <item itemvalue="npm.deploy (1)" />
         <item itemvalue="npm.predeploy (1)" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
-        <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +165,7 @@
       <workItem from="1705928400406" duration="21741000" />
       <workItem from="1705980561315" duration="4265000" />
       <workItem from="1705984989781" duration="526000" />
-      <workItem from="1705985521380" duration="3683000" />
+      <workItem from="1705985521380" duration="5650000" />
     </task>
     <task id="LOCAL-00001" summary="feat: react app init">
       <option name="closed" value="true" />
@@ -242,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705988541751</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="share image">
+      <option name="closed" value="true" />
+      <created>1705989625022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705989625023</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
