@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="206d778a-da66-4da8-ac15-f25762f3203d" name="Changes" comment="feat: setup styles &amp; layout" />
+    <list default="true" id="206d778a-da66-4da8-ac15-f25762f3203d" name="Changes" comment="move">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
     "npm.predeploy.executor": "Run",
     "prettierjs.PrettierConfiguration.Package": "/Users/kirilllomanov/Documents/ReactProject/pp_site_frontend/react/node_modules/prettier",
     "settings.editor.selected.configurable": "settings.typescriptcompiler",
-    "ts.external.directory.path": "/Users/kirilllomanov/Documents/ReactProject/pp_site_frontend/react/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/kirilllomanov/Documents/ReactProject/pp_site_frontend/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -131,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.predeploy (1)" />
         <item itemvalue="npm.deploy (1)" />
+        <item itemvalue="npm.predeploy (1)" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.dev" />
@@ -156,6 +158,7 @@
       <workItem from="1705649204038" duration="2171000" />
       <workItem from="1705928400406" duration="21741000" />
       <workItem from="1705980561315" duration="4265000" />
+      <workItem from="1705984989781" duration="526000" />
     </task>
     <task id="LOCAL-00001" summary="feat: react app init">
       <option name="closed" value="true" />
@@ -173,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705651837278</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="move">
+      <option name="closed" value="true" />
+      <created>1705984997849</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705984997849</updated>
+    </task>
+    <task id="LOCAL-00004" summary="move">
+      <option name="closed" value="true" />
+      <created>1705985469092</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705985469092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: react app init" />
     <MESSAGE value="feat: setup styles &amp; layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: setup styles &amp; layout" />
+    <MESSAGE value="move" />
+    <option name="LAST_COMMIT_MESSAGE" value="move" />
   </component>
 </project>
