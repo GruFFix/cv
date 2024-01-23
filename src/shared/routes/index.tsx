@@ -1,6 +1,6 @@
 import {
-  createBrowserRouter,
   createRoutesFromElements,
+  createHashRouter,
   Route,
 } from 'react-router-dom'
 
@@ -9,7 +9,7 @@ import { AppLayout } from '@/layouts/AppLayout/AppLayout.tsx'
 
 import { PATHS } from '@/shared/routes/paths.ts'
 
-export const router = createBrowserRouter(
+export const router = createHashRouter(
   createRoutesFromElements(
     <Route element={<AppLayout />}>
       <Route path={PATHS.MAIN} element={<MainPage />} />
