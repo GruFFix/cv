@@ -27,6 +27,7 @@ export const KvartaJob: FC<PropsWithChildren> = () => {
           'CSS3',
           'Next.js',
           'React-hook-form',
+          'React-query',
         ]}
       />
     </WorkBlock>

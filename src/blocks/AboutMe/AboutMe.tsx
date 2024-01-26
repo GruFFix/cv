@@ -93,6 +93,8 @@ export const AboutMe = () => {
                 500,
                 'Antd',
                 500,
+                'Next.js',
+                500,
                 'Less',
                 500,
                 'TypeScript',
