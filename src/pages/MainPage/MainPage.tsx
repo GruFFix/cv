@@ -12,7 +12,6 @@ export const MainPage = () => {
   return (
     <>
       <AboutMe />
-      {/*<Years />*/}
 
       <div className={s.works}>
         <HumandoneJob />

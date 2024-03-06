@@ -4,6 +4,7 @@ import { Contacts } from '@/blocks/Contacts'
 import html2canvas from 'html2canvas'
 import { jsPDF } from 'jspdf'
 import { useState } from 'react'
+import { MyProjects } from '@/blocks/MyProjects/MyProjects.tsx'
 export const AboutMe = () => {
   const [isHideBlock, setIsHideBlock] = useState(false)
   const onSavePdf = () => {
@@ -109,6 +110,8 @@ export const AboutMe = () => {
               repeat={Infinity}
             />
           </div>
+
+          <MyProjects />
 
           <Contacts />
         </>

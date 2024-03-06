@@ -18,6 +18,11 @@ export const Contacts = () => {
           Хабр
         </a>
       </li>
+      <li>
+        <a href="https://github.com/GruFFix" target="_blank" rel="noreferrer">
+          Github
+        </a>
+      </li>
     </ul>
   )
 }
